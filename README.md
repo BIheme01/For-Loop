@@ -6,4 +6,5 @@
 statement in combination with a single for loop (it’s really easy with two,
 but using only one takes a little more thought!):
 
-![alt text](https://share.icloud.com/photos/007AiPqivnHkcKjKNVzJNIbag)
+https://share.icloud.com/photos/007AiPqivnHkcKjKNVzJNIbag
+
